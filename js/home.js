@@ -26,7 +26,7 @@
     route: '',
     classname: 'home',
     animate: 'fadeIn',
-    title: 'Spring',
+    title: 'Home',
     view: function(pageData) {
       var $page = this,
           data = {},
